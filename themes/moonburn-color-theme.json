@@ -519,7 +519,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#c74545"
+				"foreground": "#d24b4b"
 			}
 		},
 		{
@@ -573,7 +573,10 @@
 			"settings": {
 				// E1E4E8
 				// til noget andet 627a9e måske parameter
-				"foreground": "#ffffffcb"
+				// e3d5b8
+				// func: e6cb92
+				// decfac
+				"foreground": "#d8d3c6"
 			}
 		},
 		// PUNCTUATION -------------------------------------------------------------------------------------------------
@@ -582,7 +585,6 @@
 			"scope": [
 				"meta.array.literal",
 				"punctuation.separator",
-				"punctuation.separator.continuation"
 			],
 			"settings": {
 				"foreground": "#017b84"
@@ -605,7 +607,26 @@
 				// d2910e
 				// efa51c
 				// e09b1a
-				"foreground": "#d48d08"
+				// d48d08
+				// dac17e
+				// F89880
+				// d1a42f
+				// de7b2f
+
+				// f39b16
+				// f09000
+
+				// for the belted version: d96900
+				// ffaf69
+				// f2ad70
+				// f39644
+
+
+				// d37487
+
+				// c56391
+				// cc7ba1
+				"foreground": "#d37487"
 			}
 		},
 		{
@@ -625,7 +646,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#D4910C"
+				"foreground": "#ff00bf"
 			}
 		},
 		{
@@ -640,7 +661,11 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#64af52"
+				// try the teal one, otherwise switch back to 64af52
+				// 22d6c1
+				// 25ee7f
+				// 00e2a9
+				"foreground": "#22d6c1"
 			}
 		},
 		{
@@ -649,7 +674,7 @@
 				"string.regexp"
 			],
 			"settings": {
-				"foreground": "#ffb6fb"
+				"foreground": "#f99188"
 			}
 		},
 		{
@@ -658,7 +683,8 @@
 				"constant.character.escape"
 			],
 			"settings": {
-				"foreground": "#a57fde"
+				// F88379
+				"foreground": "#ff897e"
 			}
 		},
 		// FUNCTION ----------------------------------------------------------------------------------------------------
@@ -672,11 +698,20 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				// gold orange: d4910c
 				// yellow: FECC66
-				// edc980
-				// ffc048
-				"foreground": "#ffce73"
+				// dc8707
+				// e5a23e
+				// F28C28
+				// de7b2f
+				// cinne: D27D2D
+				// light mahogany: CF7939
+				// if not something else than this: ffae42
+				// F29746
+				// f39644
+				// d27529
+				// e58321
+				"fontStyle": "",
+				"foreground": "#e98f35"
 			}
 		},
 		{
@@ -686,7 +721,12 @@
 			],
 			"settings": {
 				// dfbfff
-				"foreground": "#07d2bb"
+				// 07d2bb
+				// 22d6c1
+				
+				// 4ac7fc
+				// 00e2a9
+				"foreground": "#22d6c1"
 			}
 		},
 
@@ -727,7 +767,9 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#E1E4E8"
+				// dfc790
+				// d6c28d
+				"foreground": "#d8d3c6"
 			}
 		},
 		{
