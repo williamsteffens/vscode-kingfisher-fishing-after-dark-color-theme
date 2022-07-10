@@ -19,7 +19,7 @@
 
 		*/
 
-
+		
 		"foreground": "#d1d5da",
 		"descriptionForeground": "#959da5",
 		"focusBorder": "#005cc5",
@@ -36,10 +36,11 @@
         "sash.hoverBorder": "#29355a",
 
         
-		
+		// 24292e
+		// 22252c
         "selection.background": "#515c7e40",
 		"editor.foreground": "#e1e4e8",
-		"editor.background": "#24292e",
+		"editor.background": "#22252c",
 		"editor.foldBackground": "#58606915",
         "editorLink.activeForeground": "#acb0d0",
 
@@ -626,7 +627,10 @@
 
 				// c56391
 				// cc7ba1
-				"foreground": "#d37487"
+
+				// c98a98
+				"fontStyle": "",
+				"foreground": "#f2a100"
 			}
 		},
 		{
@@ -710,8 +714,12 @@
 				// f39644
 				// d27529
 				// e58321
-				"fontStyle": "",
-				"foreground": "#e98f35"
+				// e98f35
+
+				// dfa06c
+				// ad7a50
+				"fontStyle": "bold",
+				"foreground": "#af7240"
 			}
 		},
 		{

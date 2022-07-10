@@ -14,9 +14,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "moonburn",
+                "label": "Kingfisher Fishing After Dark (common)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/moonburn-color-theme.json"
+                "path": "./themes/kingfisher-common-color-theme.json"
             }
         ]
     }
