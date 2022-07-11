@@ -1,5 +1,5 @@
 {
-	"name": "moonburn",
+	"name": "kingfisher-fishing",
 	"author": "williamsteffens",
 	"type": "dark",
 	"semanticHighlighting": true,
@@ -629,6 +629,7 @@
 				// cc7ba1
 
 				// c98a98
+				// f2a100
 				"fontStyle": "",
 				"foreground": "#f2a100"
 			}
@@ -669,7 +670,9 @@
 				// 22d6c1
 				// 25ee7f
 				// 00e2a9
-				"foreground": "#22d6c1"
+
+				// same as arg var: 22d6c1
+				"foreground": "#cc7ba1"
 			}
 		},
 		{
@@ -716,10 +719,9 @@
 				// e58321
 				// e98f35
 
-				// dfa06c
-				// ad7a50
-				"fontStyle": "bold",
-				"foreground": "#af7240"
+				// cf8b31
+				"fontStyle": "",
+				"foreground": "#cf8b31"
 			}
 		},
 		{
