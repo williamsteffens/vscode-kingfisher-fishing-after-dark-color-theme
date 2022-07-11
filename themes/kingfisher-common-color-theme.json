@@ -549,7 +549,7 @@
 				// steel blue 64a2d4
 				// green color: 017b84
 				// 018f99
-				"foreground": "#017b84"
+				"foreground": "#018f99"
 			}
 		},
 		{
@@ -588,7 +588,7 @@
 				"punctuation.separator",
 			],
 			"settings": {
-				"foreground": "#017b84"
+				"foreground": "#018f99"
 			}
 		},
 		// VALUES ------------------------------------------------------------------------------------------------------
@@ -672,7 +672,8 @@
 				// 00e2a9
 
 				// same as arg var: 22d6c1
-				"foreground": "#cc7ba1"
+				// cc7ba1
+				"foreground": "#22d6c1"
 			}
 		},
 		{
@@ -681,7 +682,7 @@
 				"string.regexp"
 			],
 			"settings": {
-				"foreground": "#f99188"
+				"foreground": "#ff897e"
 			}
 		},
 		{
