@@ -44,6 +44,7 @@
         "editorMarkerNavigation.background": "#16161e",
         "editorHoverWidget.background": "#16161e",
         "editorHoverWidget.border": "#101014",
+		
 
 		// 17E5E650
         "editorBracketMatch.background": "#bbbbbb36",
@@ -67,8 +68,8 @@
 
 
         "editorGroup.dropBackground": "#1e202e",
-        "editorGroupHeader.noTabsBackground": "#16161e",
-        "editorGroupHeader.border": "#101014",
+        "editorGroupHeader.noTabsBackground": "#22282e",
+        "editorGroupHeader.border": "#1b1f23",
 		"editorGroupHeader.tabsBackground": "#1f2428",
 		"editorGroupHeader.tabsBorder": "#1b1f23",
 		"editorGroup.border": "#1b1f23",
@@ -78,7 +79,7 @@
 		"editorWidget.background": "#1f2428",
         "editorWidget.resizeBorder": "#545c7e33",
 
-        "editorSuggestWidget.background": "#16161e",
+        "editorSuggestWidget.background": "#22282e",
         "editorSuggestWidget.border": "#101014",
         "editorSuggestWidget.selectedBackground": "#20222c",
         "editorSuggestWidget.highlightForeground": "#6183bb",
@@ -104,11 +105,6 @@
 		"textCodeBlock.background": "#2f363d",
 		"textPreformat.foreground": "#d1d5da",
 		"textSeparator.foreground": "#586069",
-
-
-
-		
-
 
 
 		"peekView.border": "#101014",
@@ -327,6 +323,13 @@
 
 		"titleBar.activeForeground": "#d1d2d4",
 		"titleBar.inactiveForeground": "#858586",
+		// til noget andet 
+		// 9c6e2a
+		
+		// måske 
+		// 16242d
+
+		// 252a2e
 		"titleBar.activeBackground": "#252a2e",
 		"titleBar.inactiveBackground": "#1d2125",
 		// 1b1f23
@@ -506,24 +509,20 @@
 
 		"walkThrough.embeddedEditorBackground": "#16161e",
 
-		"breadcrumb.background": "#16161e",
+		"breadcrumb.background": "#1f2428",
 		"breadcrumb.foreground": "#959da5",
 		"breadcrumb.focusForeground": "#e1e4e8",
 		"breadcrumb.activeSelectionForeground": "#d1d5da",
 		"breadcrumbPicker.background": "#2b3036",
+		
 
 		"pickerGroup.border": "#444d56",
 		"pickerGroup.foreground": "#e1e4e8",
 
+		"notebook.editorBackground": "#22282e"
 
-
-
-
-
-
-
-
-
+		
+		
 
 		// "welcomePage.background": "#ff0000"
 
@@ -641,8 +640,14 @@
 				// 2e8779
 
 
+				// til noget andet 
+				// 206b80
+				// 0d6e89
+
 				// 228877
-				"foreground": "#228877"
+				// 017371
+				// 07807d
+				"foreground": "#07807d"
 			}
 		},
 		{
