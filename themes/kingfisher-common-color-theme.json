@@ -284,12 +284,12 @@
 
 		
 
-		"editorBracketHighlight.foreground1": "#6277a5",
-		"editorBracketHighlight.foreground2": "#25aac2",
-		"editorBracketHighlight.foreground3": "#c28ea6", 
-		"editorBracketHighlight.foreground4": "#8f64ac",
-		"editorBracketHighlight.foreground5": "#2454bb",
-		"editorBracketHighlight.foreground6": "#9da002",
+		"editorBracketHighlight.foreground1": "#6b9bae",
+		"editorBracketHighlight.foreground2": "#75b59e",
+		"editorBracketHighlight.foreground3": "#a37188",
+		"editorBracketHighlight.foreground4": "#b79ccd",
+		"editorBracketHighlight.foreground5": "#788A5A",
+		"editorBracketHighlight.foreground6": "#c79c01",
 		"editorBracketHighlight.unexpectedBracket.foreground": "#e04242",
 
 		"editorBracketPairGuide.activeBackground1": "#698cd6",
@@ -609,6 +609,7 @@
 				"foreground": "#e04242"
 			}
 		},
+
 		// KEYWORDS ----------------------------------------------------------------------------------------------------
 		{
 			"name": "Keyword, Storage, Control Flow, Terminator, Language Methods",
@@ -619,13 +620,29 @@
 				"storage.modifier",
 				"punctuation.terminator",
 				"punctuation.separator",
+				"punctuation.accessor",
 				"keyword.operator.new",
 				"variable.language",
-				"support.type"
+				"support.type",
+				"keyword.operator.c",
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#018888"
+
+				// 9ba5a4
+				// 7e8c8a
+				// 67938c
+				// 5ec9b9
+
+				// 248377
+				// 3d8379
+				// 4e867d
+
+				// 2e8779
+
+
+				// 228877
+				"foreground": "#228877"
 			}
 		},
 		{
@@ -651,7 +668,7 @@
 				"meta"
 			],
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#d3d0c3"
 			}
 		},
 		{
@@ -666,19 +683,26 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#d3d0c3"
 			}
 		},
+
 		// VALUES ------------------------------------------------------------------------------------------------------
 		{
 			"name": "Number, Embedded",
 			"scope": [
 				"constant.numeric",
 				"keyword.other.unit",
-				"support.constant"
+				"support.constant",
+				
 			],
 			"settings": {
-				"foreground": "#7cb9eb"
+				// 7cb9eb
+
+				// 7ea59e
+				//64a2d4
+
+				"foreground": "#64a2d4"
 			}
 		},
 		{
@@ -714,7 +738,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#22d6c1"
+				"foreground": "#1fc7b3"
 			}
 		},
 		{
@@ -724,32 +748,35 @@
 				"punctuation.definition.string.end"
 			],
 			"settings": {
-				"foreground": "#1ebeac"
+				"foreground": "#0bae9b"
 			}
 		},
 		{
 			"name": "Regular Expressions, Escape Characters",
 			"scope": [
 				"string.regexp",
-				"constant.character.escape"
+				"constant.character.escape",
 			],
 			"settings": {
 				"foreground": "#ff897e"
 			}
 		},
+
 		// FUNCTION ----------------------------------------------------------------------------------------------------
 		{
-			"name": "Function, Special Method",
+			"name": "Function, Special Method, Punctuation",
 			"scope": [
 				"entity.name.function",
 				"meta.function-call",
 				"variable.function",
 				"support.function",
 				"keyword.other.special-method",
-				"punctuation.accessor"
 			],
 			"settings": {
-				"foreground": "#cf8b31"
+				// #cf8b31
+
+				// #e69e7c 
+				"foreground": "#cc8b37"
 			}
 		},
 		{
@@ -758,9 +785,10 @@
 				"variable.parameter",
 			],
 			"settings": {
-				"foreground": "#d4d4d4"
+				"foreground": "#d3d0c3"
 			}
 		},
+
 		// TAG and ATTRIBUTES ------------------------------------------------------------------------------------------
 		{
 			"name": "Tag",
@@ -783,6 +811,7 @@
 				"foreground": "#e99dc0"
 			}
 		},
+
 		// LANGUAGE ----------------------------------------------------------------------------------------------------
 		// JSON --------------------------------------------------------------------------------------------------------
 		{
@@ -875,6 +904,7 @@
 				"foreground": "#C3E88D"
 			}
 		},
+
 		// HTML --------------------------------------------------------------------------------------------------------
 		{
 			"name": "HTML Attributes",
@@ -887,6 +917,7 @@
 				"foreground": "#FFCB6B"
 			}
 		},
+
 		// CSS ---------------------------------------------------------------------------------------------------------
 		{
 			"name": "CSS Class and Support",
@@ -920,6 +951,7 @@
 				"foreground": "#82AAFF"
 			}
 		},
+
 		// MARKDOWN/UP -------------------------------------------------------------------------------------------------
 		{
 			"name": "Markdown - Plain",
@@ -1117,9 +1149,6 @@
 				"foreground": "#EEFFFF"
 			}
 		},
-
-
-
 
 
 
