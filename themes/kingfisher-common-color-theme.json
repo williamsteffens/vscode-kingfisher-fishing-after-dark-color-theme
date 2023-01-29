@@ -619,7 +619,6 @@
 				"storage.modifier",
 				"punctuation.terminator",
 				"punctuation.separator",
-				"punctuation.accessor",
 				"keyword.operator.new",
 				"variable.language",
 				"support.type",
@@ -715,7 +714,7 @@
 			"scope": [
 				"constant.language",
 				"constant.character",
-				"constant.escape",		
+				"constant.escape",
 			],
 			"settings": {
 				"foreground": "#f2a100"
@@ -776,6 +775,7 @@
 				"variable.function",
 				"support.function",
 				"keyword.other.special-method",
+                "punctuation.accessor",	
 			],
 			"settings": {
 				// #cf8b31
