@@ -775,7 +775,8 @@
 				"variable.function",
 				"support.function",
 				"keyword.other.special-method",
-                "punctuation.accessor",	
+                "punctuation.accessor",
+				"punctuation.separator.period.python",
 			],
 			"settings": {
 				// #cf8b31
